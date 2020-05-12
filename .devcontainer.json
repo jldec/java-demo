@@ -1,0 +1,7 @@
+{
+  "extensions": [
+    "Pivotal.vscode-boot-dev-pack",
+    "vscjava.vscode-java-pack",
+    "redhat.vscode-xml"
+  ]
+}
